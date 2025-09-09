@@ -127,3 +127,30 @@ plt.plot(np.random.randn(100).cumsum()); plt.axhline(0, color='red', linestyle='
 ``` python
 plt.style.use('seaborn-v0_8-darkgrid'); plt.rcParams['font.size'] = 12
 ```
+
+
+
+------------------------------------------------------------------------
+
+# 번외
+
+# UX & HCI 핵심 정리
+
+## 🔹 HCI (Human-Computer Interaction)
+- **정의**: 인간과 컴퓨터(디지털 시스템) 간 상호작용 연구
+- **목표**: 최적의 사용자 경험 제공
+- **3요소**
+  1. **유용성 (Usefulness)** – 원하는 일을 효과적으로 달성  
+  2. **사용성 (Usability)** – 쉽게 배우고 효율적으로 사용  
+  3. **감성 (Affect)** – 긍정적 감정·경험 제공  
+
+---
+
+## 🔹 UX (User Experience)
+- **정의**: 시스템·서비스·제품을 사용할 때의 **총체적 경험**
+- **특징**: 기능 + 감정 + 인지적 만족감까지 포함
+- **중요 포인트**:  
+  - 사용자의 **심성 모형 (Mental Model)** 고려  
+  - 직관적이고 이해하기 쉽게 설계  
+
+---
